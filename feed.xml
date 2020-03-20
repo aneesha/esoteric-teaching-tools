@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://aneesha.github.io/esoteric-teaching-tools/feed.xml" rel="self" type="application/atom+xml" /><link href="https://aneesha.github.io/esoteric-teaching-tools/" rel="alternate" type="text/html" /><updated>2020-03-20T05:11:04-05:00</updated><id>https://aneesha.github.io/esoteric-teaching-tools/feed.xml</id><title type="html">Esoteric Teaching Tools</title><subtitle>Tools for teaching in apocalyptic times - the learning remains to be evalauted!</subtitle><entry><title type="html"></title><link href="https://aneesha.github.io/esoteric-teaching-tools/2020/03/20/2020-03-20-twine-problem-based-learning.html" rel="alternate" type="text/html" title="" /><published>2020-03-20T05:11:04-05:00</published><updated>2020-03-20T05:11:04-05:00</updated><id>https://aneesha.github.io/esoteric-teaching-tools/2020/03/20/2020-03-20-twine-problem-based-learning</id><content type="html" xml:base="https://aneesha.github.io/esoteric-teaching-tools/2020/03/20/2020-03-20-twine-problem-based-learning.html">&lt;h1 id=&quot;fastpages---rapid-courseware-authoring&quot;&gt;Fastpages - Rapid Courseware Authoring&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://aneesha.github.io/esoteric-teaching-tools/feed.xml" rel="self" type="application/atom+xml" /><link href="https://aneesha.github.io/esoteric-teaching-tools/" rel="alternate" type="text/html" /><updated>2020-03-20T05:11:51-05:00</updated><id>https://aneesha.github.io/esoteric-teaching-tools/feed.xml</id><title type="html">Esoteric Teaching Tools</title><subtitle>Tools for teaching in apocalyptic times - the learning remains to be evalauted!</subtitle><entry><title type="html"></title><link href="https://aneesha.github.io/esoteric-teaching-tools/2020/03/20/2020-03-20-twine-problem-based-learning.html" rel="alternate" type="text/html" title="" /><published>2020-03-20T05:11:51-05:00</published><updated>2020-03-20T05:11:51-05:00</updated><id>https://aneesha.github.io/esoteric-teaching-tools/2020/03/20/2020-03-20-twine-problem-based-learning</id><content type="html" xml:base="https://aneesha.github.io/esoteric-teaching-tools/2020/03/20/2020-03-20-twine-problem-based-learning.html">&lt;h1 id=&quot;fastpages---rapid-courseware-authoring&quot;&gt;Fastpages - Rapid Courseware Authoring&lt;/h1&gt;
 
 &lt;p&gt;In your move to wholly online don’t count on full video streaming and synchronous collaborative tools. With everybody working from home and using these tools bandwidth is going to vary and be unreliable. You need to return to providing a text based alternative. This is where fastpages comes to the rescue. If you know github and markdown and have a heap of existing jupyter notebooks, you’ll find fastpages a great way to rapidly publish your content as a blog on Github pages.&lt;/p&gt;
 
@@ -6,17 +6,30 @@
 &lt;ul&gt;
   &lt;li&gt;Rapid authoring
 You don’t need to be copying and pasting content into the uni provided LMS - no need to create folder by folder and upload file by file one at a time. You can use the tools you already know and be productive using existing jupyter notebooks, word docs, markdown, latex. Behind the scenes using github actions and Jekyll, static files are rendered and deployed to github pages. You can still link to the site from within your LMS but improve your productivity and take the load off the uni provided LMS.&lt;/li&gt;
-  &lt;li&gt;Great for Programming or Data Science Tutorial
-Interactive charts using Altair are rendered. Syntax highlighting and folding available for code.&lt;/li&gt;
-  &lt;li&gt;Easy media integration
-Easily embed images and youtube videos.&lt;/li&gt;
-  &lt;li&gt;Full Taxonomy support
-Tags and categories are supported&lt;/li&gt;
-  &lt;li&gt;Full search support
-Many LMS don’t even have this feature! Students will be able to search for content.&lt;/li&gt;
-  &lt;li&gt;Support for comments on each page
-Made possible via github issues. A great way for students to ask questions.&lt;/li&gt;
+  &lt;li&gt;Great for Programming or Data Science Tutorial&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;Interactive charts using Altair are rendered. Syntax highlighting and folding available for code.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Easy media integration&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Easily embed images and youtube videos.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Full Taxonomy support&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Tags and categories are supported&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Full search support&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Many LMS don’t even have this feature! Students will be able to search for content.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Support for comments on each page&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Made possible via github issues. A great way for students to ask questions.&lt;/p&gt;
 
 &lt;h2 id=&quot;to-get-started&quot;&gt;To get started:&lt;/h2&gt;
 &lt;ol&gt;
