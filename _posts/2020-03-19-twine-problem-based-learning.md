@@ -4,9 +4,9 @@ layout: post
 description: Using the Twine interactive fiction authoring tool to create branching scenarios and problem based learning exercises.
 categories: [Content Authoring, Scenario Based Learning, Problem Based Learning]
 tags: [All]
-title: Interactive Fiction with a Twist for Scenario/Problem Based Learning
+title: Twine - Interactive Fiction with a Twist for Scenario/Problem Based Learning
 ---
-# Interactive Fiction with a Twist for Scenario/Problem Based Learning
+# Twine - Interactive Fiction with a Twist for Scenario/Problem Based Learning
 
 Tools to build interactive fiction are rarely used to build interactive branching scenarios! I don’t know why? I’ve always found the current set of tools at our disposal to be lacking because variables (or choices made) can’t be shared across screens/branches and custom scripting is often not allowed. I’ve always thought using interactive fiction software would be a better alternative, although I never explored it further until I played an interactive [project decision scenario](https://www.screenface.net/TSF/TSF.html) built with Twine (via Twitter - created by the ASCILITE TELedvisors Special Interest Group, Monash Education Innovation (Monash University) and Charles Darwin University). The scenario involves making key decisions to implement a project while reviewing various project status attributes (i.e. day remaining, budget, project risk and even your reputation).
 
