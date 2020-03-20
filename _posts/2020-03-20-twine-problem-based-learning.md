@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: Using Twine to create Branching and Problem Based Learning Scenarios.
-categories: [Content Authoring, Tutorials]]
+categories: [Content Authoring, Tutorials]
 tags: [Maths, Data Science, Programming]
 title: Fastpages - Rapid Courseware Authoring
 ---
