@@ -5,6 +5,7 @@ description: Using the Spreadsheet Convertor to build models, calculators and si
 categories: [Content Authoring, Interactive Simulation]
 tags: [Maths, Data Science]
 title: Spreadsheet Convertor - Convert Excel to HTML
+comments: true
 ---
 # Interactive Fiction with a Twist for Scenario/Problem Based Learning
 

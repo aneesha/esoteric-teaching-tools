@@ -5,6 +5,7 @@ description: Using the Twine interactive fiction authoring tool to create branch
 categories: [Content Authoring, Scenario Based Learning, Problem Based Learning]
 tags: [All]
 title: Twine - Interactive Fiction with a Twist for Scenario/Problem Based Learning
+comments: true
 ---
 # Twine - Interactive Fiction with a Twist for Scenario/Problem Based Learning
 

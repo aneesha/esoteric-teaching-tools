@@ -5,6 +5,7 @@ description: Using the Fastpages blogging platform to create courseware.
 categories: [Content Authoring, Tutorials]
 tags: [Maths, Data Science, Programming]
 title: Fastpages - Rapid Courseware Authoring
+comments: true
 ---
 # Fastpages - Rapid Courseware Authoring
 
