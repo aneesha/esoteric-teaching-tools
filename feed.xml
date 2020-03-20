@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://aneesha.github.io/esoteric-teaching-tools/feed.xml" rel="self" type="application/atom+xml" /><link href="https://aneesha.github.io/esoteric-teaching-tools/" rel="alternate" type="text/html" /><updated>2020-03-20T05:22:02-05:00</updated><id>https://aneesha.github.io/esoteric-teaching-tools/feed.xml</id><title type="html">Esoteric Teaching Tools</title><subtitle>Tools for teaching in apocalyptic times - the learning remains to be evalauted!</subtitle><entry><title type="html">Fastpages - Rapid Courseware Authoring</title><link href="https://aneesha.github.io/esoteric-teaching-tools/content%20authoring/tutorials/2020/03/20/twine-problem-based-learning.html" rel="alternate" type="text/html" title="Fastpages - Rapid Courseware Authoring" /><published>2020-03-20T00:00:00-05:00</published><updated>2020-03-20T00:00:00-05:00</updated><id>https://aneesha.github.io/esoteric-teaching-tools/content%20authoring/tutorials/2020/03/20/twine-problem-based-learning</id><content type="html" xml:base="https://aneesha.github.io/esoteric-teaching-tools/content%20authoring/tutorials/2020/03/20/twine-problem-based-learning.html">&lt;h1 id=&quot;fastpages---rapid-courseware-authoring&quot;&gt;Fastpages - Rapid Courseware Authoring&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://aneesha.github.io/esoteric-teaching-tools/feed.xml" rel="self" type="application/atom+xml" /><link href="https://aneesha.github.io/esoteric-teaching-tools/" rel="alternate" type="text/html" /><updated>2020-03-20T07:05:38-05:00</updated><id>https://aneesha.github.io/esoteric-teaching-tools/feed.xml</id><title type="html">Esoteric Teaching Tools</title><subtitle>Tools for teaching in apocalyptic times - the learning remains to be evalauted!</subtitle><entry><title type="html">Fastpages - Rapid Courseware Authoring</title><link href="https://aneesha.github.io/esoteric-teaching-tools/content%20authoring/tutorials/2020/03/20/fastpages-rapid-course-authoring.html" rel="alternate" type="text/html" title="Fastpages - Rapid Courseware Authoring" /><published>2020-03-20T00:00:00-05:00</published><updated>2020-03-20T00:00:00-05:00</updated><id>https://aneesha.github.io/esoteric-teaching-tools/content%20authoring/tutorials/2020/03/20/fastpages-rapid-course-authoring</id><content type="html" xml:base="https://aneesha.github.io/esoteric-teaching-tools/content%20authoring/tutorials/2020/03/20/fastpages-rapid-course-authoring.html">&lt;h1 id=&quot;fastpages---rapid-courseware-authoring&quot;&gt;Fastpages - Rapid Courseware Authoring&lt;/h1&gt;
 
-&lt;p&gt;In your move to wholly online don’t count on full video streaming and synchronous collaborative tools. With everybody working from home and using these tools bandwidth is going to vary and be unreliable. You need to return to providing a text based alternative. This is where fastpages comes to the rescue. If you know github and markdown and have a heap of existing jupyter notebooks, you’ll find fastpages a great way to rapidly publish your content as a blog on Github pages.&lt;/p&gt;
+&lt;p&gt;In your move to wholly online don’t count on full video streaming and synchronous collaborative tools. With everybody working from home and using these tools bandwidth is going to vary and be unreliable. You need to return to providing a text based alternative. This is where fastpages comes to the rescue. If you know github and markdown and have a heap of existing Jupyter notebooks, you’ll find fastpages a great way to rapidly publish your content as a blog on Github pages.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/esoteric-teaching-tools/images/diagram.png&quot; alt=&quot;&quot; title=&quot;https://github.com/fastai/fastpages&quot; /&gt;&lt;/p&gt;
 
@@ -42,5 +42,93 @@
 &lt;ol&gt;
   &lt;li&gt;Preview the &lt;a href=&quot;https://fastpages.fast.ai/&quot;&gt;Demo site&lt;/a&gt;.&lt;/li&gt;
   &lt;li&gt;Watch the &lt;a href=&quot;https://www.youtube.com/watch?v=L0boq3zqazI&amp;amp;feature=youtu.be&quot;&gt;setup video&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;Follow the &lt;a href=&quot;https://github.com/fastai/fastpages#setup-instructions&quot;&gt;instructions&lt;/a&gt; for creating your own course site .&lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><category term="Maths" /><category term="Data Science" /><category term="Programming" /><summary type="html">Fastpages - Rapid Courseware Authoring</summary></entry></feed>
+  &lt;li&gt;Follow the &lt;a href=&quot;https://github.com/fastai/fastpages#setup-instructions&quot;&gt;instructions&lt;/a&gt; for creating your own course site.&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><category term="Maths" /><category term="Data Science" /><category term="Programming" /><summary type="html">Fastpages - Rapid Courseware Authoring</summary></entry><entry><title type="html">Interactive Fiction with a Twist for Scenario/Problem Based Learning</title><link href="https://aneesha.github.io/esoteric-teaching-tools/content%20authoring/scenario%20based%20learning/problem%20based%20learning/2020/03/19/twine-problem-based-learning.html" rel="alternate" type="text/html" title="Interactive Fiction with a Twist for Scenario/Problem Based Learning" /><published>2020-03-19T00:00:00-05:00</published><updated>2020-03-19T00:00:00-05:00</updated><id>https://aneesha.github.io/esoteric-teaching-tools/content%20authoring/scenario%20based%20learning/problem%20based%20learning/2020/03/19/twine-problem-based-learning</id><content type="html" xml:base="https://aneesha.github.io/esoteric-teaching-tools/content%20authoring/scenario%20based%20learning/problem%20based%20learning/2020/03/19/twine-problem-based-learning.html">&lt;h1 id=&quot;interactive-fiction-with-a-twist-for-scenarioproblem-based-learning&quot;&gt;Interactive Fiction with a Twist for Scenario/Problem Based Learning&lt;/h1&gt;
+
+&lt;p&gt;Tools to build interactive fiction are rarely used to build interactive branching scenarios! I don’t know why? I’ve always found the current set of tools at our disposal to be lacking because variables (or choices made) can’t be shared across screens/branches and custom scripting is often not allowed. I’ve always thought using interactive fiction software would be a better alternative, although I never explored it further until I played an interactive &lt;a href=&quot;https://www.screenface.net/TSF/TSF.html&quot;&gt;project decision scenario&lt;/a&gt; built with Twine (via Twitter - created by the ASCILITE TELedvisors Special Interest Group, Monash Education Innovation (Monash University) and Charles Darwin University). The scenario involves making key decisions to implement a project while reviewing various project status attributes (i.e. day remaining, budget, project risk and even your reputation).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/esoteric-teaching-tools/images/twine.png&quot; alt=&quot;&quot; title=&quot;https://twinery.org/&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;what-can-you-do&quot;&gt;What can you do?&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Author Complex Branching/Problem Based Learning Scenarios&lt;/p&gt;
+
+    &lt;p&gt;You can download and create multi-pathway scenarios that have branches, variables and conditional logic. The scenario can be exported to HTML.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Include Media&lt;/p&gt;
+
+    &lt;p&gt;Full support for media and styling (i.e. css). Additional functionality via SugarCube library (http://www.motoslave.net/sugarcube/)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Embed complex decision logic&lt;/p&gt;
+
+    &lt;p&gt;Javascript is supported.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;to-get-started&quot;&gt;To get started:&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Download for &lt;a href=&quot;https://twinery.org/&quot;&gt;Mac, Linux or Windows&lt;/a&gt;. There is even an online editor.&lt;/li&gt;
+  &lt;li&gt;Follow a &lt;a href=&quot;https://opensource.com/article/18/2/twine-gaming&quot;&gt;simple tutorial&lt;/a&gt; to get started.&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><category term="All" /><summary type="html">Interactive Fiction with a Twist for Scenario/Problem Based Learning</summary></entry><entry><title type="html">Spreadsheet Convertor - Convert Excel to HTML</title><link href="https://aneesha.github.io/esoteric-teaching-tools/content%20authoring/interactive%20simulation/2020/03/18/spreadsheet-convertor.html" rel="alternate" type="text/html" title="Spreadsheet Convertor - Convert Excel to HTML" /><published>2020-03-18T00:00:00-05:00</published><updated>2020-03-18T00:00:00-05:00</updated><id>https://aneesha.github.io/esoteric-teaching-tools/content%20authoring/interactive%20simulation/2020/03/18/%20spreadsheet-convertor</id><content type="html" xml:base="https://aneesha.github.io/esoteric-teaching-tools/content%20authoring/interactive%20simulation/2020/03/18/spreadsheet-convertor.html">&lt;h1 id=&quot;interactive-fiction-with-a-twist-for-scenarioproblem-based-learning&quot;&gt;Interactive Fiction with a Twist for Scenario/Problem Based Learning&lt;/h1&gt;
+
+&lt;p&gt;Do you have a model, simulation, calculator or interactive chart implemented in Excel and what to include it within a course? Spreadsheet Convertor is an Excel add-on that can export to pure HTML and javascript. Various charts and functions are supported. It is not free but comes with a free trial and is well worth the $245 USD. You will need a Window PC or VM with Excel.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/esoteric-teaching-tools/images/spreadsheet-converter.png&quot; alt=&quot;&quot; title=&quot;https://www.spreadsheetconverter.com/&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;what-can-you-do&quot;&gt;What can you do?&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Large subset of Excel features supported&lt;/p&gt;
+
+    &lt;p&gt;Many chart types and functions can be used.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Includes UI controls and ability to specify input fields and columns&lt;/p&gt;
+
+    &lt;p&gt;Quite easy to make sliders and have all dependent calculations updated.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Various Export Options&lt;/p&gt;
+
+    &lt;p&gt;HTML, iOS and Android and also able to embed in WordPress&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;to-get-started&quot;&gt;To get started:&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Try the &lt;a href=&quot;https://www.spreadsheetconverter.com/examples/&quot;&gt;examples&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Download the &lt;a href=&quot;https://www.spreadsheetconverter.com/download/&quot;&gt;Trial Version&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Follow a simple tutorial on &lt;a href=&quot;https://www.spreadsheetconverter.com/news/take-the-tour/&quot;&gt;building a calculator&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><category term="Maths" /><category term="Data Science" /><summary type="html">Interactive Fiction with a Twist for Scenario/Problem Based Learning</summary></entry><entry><title type="html">CodeTour - A VS Code extension for code walkthroughs</title><link href="https://aneesha.github.io/esoteric-teaching-tools/content%20authoring/tutorials/2020/03/17/codetour.html" rel="alternate" type="text/html" title="CodeTour - A VS Code extension for code walkthroughs" /><published>2020-03-17T00:00:00-05:00</published><updated>2020-03-17T00:00:00-05:00</updated><id>https://aneesha.github.io/esoteric-teaching-tools/content%20authoring/tutorials/2020/03/17/%20codetour</id><content type="html" xml:base="https://aneesha.github.io/esoteric-teaching-tools/content%20authoring/tutorials/2020/03/17/codetour.html">&lt;h1 id=&quot;codetour---a-vs-code-extension-for-code-walkthroughs&quot;&gt;CodeTour - A VS Code extension for code walkthroughs&lt;/h1&gt;
+
+&lt;p&gt;Need to explain programming code or introduce students to a new code repository starting point for a programming assignment? Don’t record a video! CodeTour is a Visual Studio Code extension, which allows you to record and playback guided walkthroughs of software code.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/esoteric-teaching-tools/images/code-tour.png&quot; alt=&quot;&quot; title=&quot;https://github.com/vsls-contrib/codetour&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;what-can-you-do&quot;&gt;What can you do?&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Author Walkthroughs&lt;/p&gt;
+
+    &lt;p&gt;Annotate files and lines of code. Even markdown can be included&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Playback Walkthroughs&lt;/p&gt;
+
+    &lt;p&gt;Steps presented interactively with navigation&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Store walkthrough files in the code base&lt;/p&gt;
+
+    &lt;p&gt;Walkthroughs are stored as text files and easily committed to the code repository.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;to-get-started&quot;&gt;To get started:&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Install &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour&quot;&gt;CodeTour VS Code extension&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Follow &lt;a href=&quot;https://github.com/vsls-contrib/codetour&quot;&gt;instructions for recording and playback&lt;/a&gt; of the CodeTour.&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><category term="Programming" /><category term="Data Science" /><summary type="html">CodeTour - A VS Code extension for code walkthroughs</summary></entry></feed>
