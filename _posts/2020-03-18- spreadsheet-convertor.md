@@ -1,7 +1,7 @@
 ---
 toc: true
 layout: post
-description: Using the Spreadsheet Convertor to build models, calculators and simulations in Excel and then embed with a Web page.
+description: Using the Spreadsheet Convertor to build models, calculators and simulations in Excel and then embed within a Web page.
 categories: [Content Authoring, Interactive Simulation]
 tags: [Maths, Data Science]
 title: Spreadsheet Convertor - Convert Excel to HTML
