@@ -8,7 +8,7 @@ title: Fastpages - Rapid Courseware Authoring
 ---
 # Fastpages - Rapid Courseware Authoring
 
-In your move to wholly online don’t count on full video streaming and synchronous collaborative tools. With everybody working from home and using these tools bandwidth is going to vary and be unreliable. You need to return to providing a text based alternative. This is where fastpages comes to the rescue. If you know github and markdown and have a heap of existing jupyter notebooks, you’ll find fastpages a great way to rapidly publish your content as a blog on Github pages. 
+In your move to wholly online don’t count on full video streaming and synchronous collaborative tools. With everybody working from home and using these tools bandwidth is going to vary and be unreliable. You need to return to providing a text based alternative. This is where fastpages comes to the rescue. If you know github and markdown and have a heap of existing Jupyter notebooks, you’ll find fastpages a great way to rapidly publish your content as a blog on Github pages.
 
 ![]({{site.baseurl}}/images/diagram.png "https://github.com/fastai/fastpages")
 
@@ -35,7 +35,4 @@ In your move to wholly online don’t count on full video streaming and synchron
 ## To get started:
 1. Preview the [Demo site](https://fastpages.fast.ai/).
 1. Watch the [setup video](https://www.youtube.com/watch?v=L0boq3zqazI&feature=youtu.be).
-1. Follow the [instructions](https://github.com/fastai/fastpages#setup-instructions) for creating your own course site .
-
-
-
+1. Follow the [instructions](https://github.com/fastai/fastpages#setup-instructions) for creating your own course site.
