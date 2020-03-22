@@ -36,4 +36,4 @@ Due to COVID19, hypothes.is has [waived all fees for educational institutions du
 1. Watch the [demo video](https://youtu.be/N4QPxr6cN7Q).
 1. Read [Social Reading and Remote Learning with Hypothesis](https://web.hypothes.is/blog/social-reading-and-remote-learning-with-hypothesis/).
 1. Sign up for a [pilot](https://web.hypothes.is/education/lms/) and Install the LTI within your LMS.
-1. Review the [A quick guide to using the hypothes.is LMS plugin](https://digitocentrism.com/teaching-2/a-quick-guide-to-using-the-hypothes-is-lms-plugin/).
+1. Review [A quick guide to using the hypothes.is LMS plugin](https://digitocentrism.com/teaching-2/a-quick-guide-to-using-the-hypothes-is-lms-plugin/).
