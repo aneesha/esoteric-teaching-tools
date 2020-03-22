@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://aneesha.github.io/esoteric-teaching-tools/feed.xml" rel="self" type="application/atom+xml" /><link href="https://aneesha.github.io/esoteric-teaching-tools/" rel="alternate" type="text/html" /><updated>2020-03-21T18:29:18-05:00</updated><id>https://aneesha.github.io/esoteric-teaching-tools/feed.xml</id><title type="html">Esoteric Teaching Tools</title><subtitle>Tools for teaching in apocalyptic times - the learning remains to be evaluated!</subtitle><entry><title type="html">Fastpages - Rapid Courseware Authoring</title><link href="https://aneesha.github.io/esoteric-teaching-tools/content%20authoring/tutorials/2020/03/20/fastpages-rapid-course-authoring.html" rel="alternate" type="text/html" title="Fastpages - Rapid Courseware Authoring" /><published>2020-03-20T00:00:00-05:00</published><updated>2020-03-20T00:00:00-05:00</updated><id>https://aneesha.github.io/esoteric-teaching-tools/content%20authoring/tutorials/2020/03/20/fastpages-rapid-course-authoring</id><content type="html" xml:base="https://aneesha.github.io/esoteric-teaching-tools/content%20authoring/tutorials/2020/03/20/fastpages-rapid-course-authoring.html">&lt;h1 id=&quot;fastpages---rapid-courseware-authoring&quot;&gt;Fastpages - Rapid Courseware Authoring&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://aneesha.github.io/esoteric-teaching-tools/feed.xml" rel="self" type="application/atom+xml" /><link href="https://aneesha.github.io/esoteric-teaching-tools/" rel="alternate" type="text/html" /><updated>2020-03-21T19:58:23-05:00</updated><id>https://aneesha.github.io/esoteric-teaching-tools/feed.xml</id><title type="html">Esoteric Teaching Tools</title><subtitle>Tools for teaching in apocalyptic times - the learning remains to be evaluated!</subtitle><entry><title type="html">hypothes.is - Collaborative Annotation</title><link href="https://aneesha.github.io/esoteric-teaching-tools/annotation/lti/lms/2020/03/22/hypothes-is.html" rel="alternate" type="text/html" title="hypothes.is - Collaborative Annotation" /><published>2020-03-22T00:00:00-05:00</published><updated>2020-03-22T00:00:00-05:00</updated><id>https://aneesha.github.io/esoteric-teaching-tools/annotation/lti/lms/2020/03/22/%20hypothes-is</id><content type="html" xml:base="https://aneesha.github.io/esoteric-teaching-tools/annotation/lti/lms/2020/03/22/hypothes-is.html">&lt;h1 id=&quot;hypothesis---collaborative-annotation&quot;&gt;hypothes.is - Collaborative Annotation&lt;/h1&gt;
+
+&lt;div class=&quot;Toast Toast--warning googoo&quot;&gt;
+   &lt;span class=&quot;Toast-icon&quot;&gt;&lt;svg class=&quot;octicon octicon-alert&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 000 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 00.01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;
+   &lt;span class=&quot;Toast-content&quot;&gt;Due to COVID19, hypothes.is has [waived all fees for educational institutions during 2020](https://web.hypothes.is/blog/hypothesis-for-instructional-continuity-during-covid-19/).&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Looking for a way to increase student engagement with coursework (either web or pdf) and still monitor learner reading progress? Hypothes.is is a social annotation tool that plugs directly into a LMS and allows learners to highlight text and anchor discussions to course content. Social annotation allows learners to see the annotations made by other learners and participate in a discussion. Annotation can foster a deeper understanding of content, encourage the learners to make inferences and draw conclusions as well as allow learners to gain an overview of a reading without having to reread the content.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/esoteric-teaching-tools/images/hypothes-is.png&quot; alt=&quot;&quot; title=&quot;https://web.hypothes.is/&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;what-can-you-do&quot;&gt;What can you do?&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Enable Annotation with embedded media just about everywhere&lt;/p&gt;
+
+    &lt;p&gt;Within an LMS, a pdf or just a web page. Highlight text to create an annotation, or reply to an annotation to start a discussion. Images and video can be added to an annotation.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;LMS Support via LTI&lt;/p&gt;
+
+    &lt;p&gt;LTI is the default way for tools to integrate with an LMS. Essentially LTI allows students and staff to access external apps without creating a new account and login. LTI also allows the app to send grades back to the LMS. Supported LMS in include Blackboard, Moodle, Canvas and D2L.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Annotate together in groups&lt;/p&gt;
+
+    &lt;p&gt;Groups can be created within each course and annotations remain private within the group.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Rapid Grading&lt;/p&gt;
+
+    &lt;p&gt;hypothes.is can pass grades back to the LMS via LTI. While it may seem tedious to grade annotations, a Speed Grader interface is provided.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;to-get-started&quot;&gt;To get started:&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Watch the &lt;a href=&quot;https://youtu.be/N4QPxr6cN7Q&quot;&gt;demo video&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Read &lt;a href=&quot;https://web.hypothes.is/blog/social-reading-and-remote-learning-with-hypothesis/&quot;&gt;Social Reading and Remote Learning with Hypothesis&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Sign up for a &lt;a href=&quot;https://web.hypothes.is/education/lms/&quot;&gt;pilot&lt;/a&gt; and Install the LTI within your LMS.&lt;/li&gt;
+  &lt;li&gt;Review the &lt;a href=&quot;https://digitocentrism.com/teaching-2/a-quick-guide-to-using-the-hypothes-is-lms-plugin/&quot;&gt;A quick guide to using the hypothes.is LMS plugin&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><category term="ALL" /><summary type="html">hypothes.is - Collaborative Annotation</summary></entry><entry><title type="html">Fastpages - Rapid Courseware Authoring</title><link href="https://aneesha.github.io/esoteric-teaching-tools/content%20authoring/tutorials/2020/03/20/fastpages-rapid-course-authoring.html" rel="alternate" type="text/html" title="Fastpages - Rapid Courseware Authoring" /><published>2020-03-20T00:00:00-05:00</published><updated>2020-03-20T00:00:00-05:00</updated><id>https://aneesha.github.io/esoteric-teaching-tools/content%20authoring/tutorials/2020/03/20/fastpages-rapid-course-authoring</id><content type="html" xml:base="https://aneesha.github.io/esoteric-teaching-tools/content%20authoring/tutorials/2020/03/20/fastpages-rapid-course-authoring.html">&lt;h1 id=&quot;fastpages---rapid-courseware-authoring&quot;&gt;Fastpages - Rapid Courseware Authoring&lt;/h1&gt;
 
 &lt;p&gt;In your move to wholly online don’t count on full video streaming and synchronous collaborative tools. With everybody working from home and using these tools bandwidth is going to vary and be unreliable. You need to return to providing a text based alternative. This is where fastpages comes to the rescue. If you know github and markdown and have a heap of existing Jupyter notebooks, you’ll find fastpages a great way to rapidly publish your content as a blog on Github pages.&lt;/p&gt;
 
