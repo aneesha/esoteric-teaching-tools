@@ -9,11 +9,11 @@ comments: true
 ---
 # hypothes.is - Collaborative Annotation
 
-{% include alert.html text="Due to COVID19, hypothes.is has [waived all fees for educational institutions during 2020](https://web.hypothes.is/blog/hypothesis-for-instructional-continuity-during-covid-19/)." %}
-
 Looking for a way to increase student engagement with coursework (either web or pdf) and still monitor learner reading progress? Hypothes.is is a social annotation tool that plugs directly into a LMS and allows learners to highlight text and anchor discussions to course content. Social annotation allows learners to see the annotations made by other learners and participate in a discussion. Annotation can foster a deeper understanding of content, encourage the learners to make inferences and draw conclusions as well as allow learners to gain an overview of a reading without having to reread the content.
 
 ![]({{site.baseurl}}/images/hypothes-is.png "https://web.hypothes.is/")
+
+Due to COVID19, hypothes.is has [waived all fees for educational institutions during 2020](https://web.hypothes.is/blog/hypothesis-for-instructional-continuity-during-covid-19/).
 
 ## What can you do?
 - Enable Annotation with embedded media just about everywhere
