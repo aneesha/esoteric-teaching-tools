@@ -2,6 +2,17 @@
   
     
         "post0": {
+            "title": "GroupMap - A Tool for Brainstorming and Group Decision Making",
+            "content": "GroupMap - A Tool for Brainstorming and Group Decision Making . GroupMap is very different from many voting and idea collection tools. GroupMap allows participants to brainstorm, discuss ideas and make decisions. The tool is very flexible and is able to support brainstorming in various domain areas with 60+ templates (grid and mindmap) provided. GroupMap activities can be sequences to include individual submission, idea grouping of submissions from all participants, idea voting and final decision making. GroupMap allows the group perspective to be captures without anybody dominating the conversation. The tool is not free but worth investigating. . . What can you do? . Use Lots of templates . 60+ customizable templates available including Stakeholder Analysis, SWOT Analysis, Business Canvas Model, 2D Risk Assessment Maps. . | Allow Anonymous Submissions . Share names and email addresses of participants, only show names or keep submissions fully anonymous . | Choose Contribution Modes for Each Activity . Let’s participants contribute together or individually. Responses collated in real-time. . | Enable Idea Voting and Ranking . Simple idea sorting, Agree or disagree with suggested ideas, Like or dislike ideas, Rate along multiple dimensions and Weighted scoring against criteria. . | Customize Workflow . Decide on and setup the sequence of the activity e.g., Brainstorm, group responses, then rate responses and have a final survey. . | Export and View Submission Statistics . Contributions can be exported to csv format. A submission statistics and ratings report is available. . | . To get started: . Read “Outcomes from student engagement in collaborative brainstorming.”. | Read “Teaching with technology – Going beyond Kahoot, Socrative and other quiz apps” | Sign up for a plan - base plan is $20 USD per month for 1 map creator and 10 participants. |",
+            "url": "https://aneesha.github.io/esoteric-teaching-tools/annotation/lti/lms/2020/03/28/group-map.html",
+            "relUrl": "/annotation/lti/lms/2020/03/28/group-map.html",
+            "date": " • Mar 28, 2020"
+        }
+        
+    
+  
+    
+        ,"post1": {
             "title": "hypothes.is - Collaborative Annotation",
             "content": "hypothes.is - Collaborative Annotation . Looking for a way to increase student engagement with coursework (either web or pdf) and still monitor learner reading progress? Hypothes.is is a social annotation tool that plugs directly into a LMS and allows learners to highlight text and anchor discussions to course content. Social annotation allows learners to see the annotations made by other learners and participate in a discussion. Annotation can foster a deeper understanding of content, encourage the learners to make inferences and draw conclusions as well as allow learners to gain an overview of a reading without having to reread the content. . . Due to COVID19, hypothes.is has waived all fees for educational institutions during 2020. . What can you do? . Enable Annotation with embedded media just about everywhere . Within an LMS, a pdf or just a web page. Highlight text to create an annotation, or reply to an annotation to start a discussion. Images and video can be added to an annotation. . | LMS Support via LTI . LTI is the default way for tools to integrate with an LMS. Essentially LTI allows students and staff to access external apps without creating a new account and login. LTI also allows the app to send grades back to the LMS. Supported LMS in include Blackboard, Moodle, Canvas and D2L. . | Annotate together in groups . Groups can be created within each course and annotations remain private within the group. . | Rapid Grading . hypothes.is can pass grades back to the LMS via LTI. While it may seem tedious to grade annotations, a Speed Grader interface is provided. . | . To get started: . Watch the demo video. | Read Social Reading and Remote Learning with Hypothesis. | Sign up for a pilot and Install the LTI within your LMS. | Review A quick guide to using the hypothes.is LMS plugin. |",
             "url": "https://aneesha.github.io/esoteric-teaching-tools/annotation/lti/lms/2020/03/22/hypothes-is.html",
@@ -12,7 +23,7 @@
     
   
     
-        ,"post1": {
+        ,"post2": {
             "title": "Fastpages - Rapid Courseware Authoring",
             "content": "Fastpages - Rapid Courseware Authoring . In your move to wholly online don’t count on full video streaming and synchronous collaborative tools. With everybody working from home and using these tools bandwidth is going to vary and be unreliable. You need to return to providing a text based alternative. This is where fastpages comes to the rescue. If you know github and markdown and have a heap of existing Jupyter notebooks, you’ll find fastpages a great way to rapidly publish your content as a blog on Github pages. . . What can you do? . Rapid authoring . You don’t need to be copying and pasting content into the uni provided LMS - no need to create folder by folder and upload file by file one at a time. You can use the tools you already know and be productive using existing jupyter notebooks, word docs, markdown, latex. Behind the scenes using github actions and Jekyll, static files are rendered and deployed to github pages. You can still link to the site from within your LMS but improve your productivity and take the load off the uni provided LMS. . | Great for Programming or Data Science Tutorial . Interactive charts using Altair are rendered. Syntax highlighting and folding available for code. . | Easy media integration . Easily embed images and youtube videos. . | Full Taxonomy support . Tags and categories are supported . | Full search support . Many LMS don’t even have this feature! Students will be able to search for content. . | Support for comments on each page . Made possible via github issues. A great way for students to ask questions. . | . To get started: . Preview the Demo site. | Watch the setup video. | Follow the instructions for creating your own course site. |",
             "url": "https://aneesha.github.io/esoteric-teaching-tools/content%20authoring/tutorials/2020/03/20/fastpages-rapid-course-authoring.html",
@@ -23,7 +34,7 @@
     
   
     
-        ,"post2": {
+        ,"post3": {
             "title": "Twine - Interactive Fiction with a Twist for Scenario/Problem Based Learning",
             "content": "Twine - Interactive Fiction with a Twist for Scenario/Problem Based Learning . Tools to build interactive fiction are rarely used to build interactive branching scenarios! I don’t know why? I’ve always found the current set of tools at our disposal to be lacking because variables (or choices made) can’t be shared across screens/branches and custom scripting is often not allowed. I’ve always thought using interactive fiction software would be a better alternative, although I never explored it further until I played an interactive project decision scenario built with Twine (via Twitter - created by the ASCILITE TELedvisors Special Interest Group, Monash Education Innovation (Monash University) and Charles Darwin University). The scenario involves making key decisions to implement a project while reviewing various project status attributes (i.e. day remaining, budget, project risk and even your reputation). . . What can you do? . Author Complex Branching/Problem Based Learning Scenarios . You can download and create multi-pathway scenarios that have branches, variables and conditional logic. The scenario can be exported to HTML. . | Include Media . Full support for media and styling (i.e. css). Additional functionality via SugarCube library (http://www.motoslave.net/sugarcube/) . | Embed complex decision logic . Javascript is supported. . | . To get started: . Download for Mac, Linux or Windows. There is even an online editor. | Follow a simple tutorial to get started. |",
             "url": "https://aneesha.github.io/esoteric-teaching-tools/content%20authoring/scenario%20based%20learning/problem%20based%20learning/2020/03/19/twine-problem-based-learning.html",
@@ -34,7 +45,7 @@
     
   
     
-        ,"post3": {
+        ,"post4": {
             "title": "Spreadsheet Convertor - Convert Excel to HTML",
             "content": "Interactive Fiction with a Twist for Scenario/Problem Based Learning . Do you have a model, simulation, calculator or interactive chart implemented in Excel and what to include it within a course? Spreadsheet Convertor is an Excel add-on that can export to pure HTML and javascript. Various charts and functions are supported. It is not free but comes with a free trial and is well worth the $245 USD. You will need a Window PC or VM with Excel. . . What can you do? . Large subset of Excel features supported . Many chart types and functions can be used. . | Includes UI controls and ability to specify input fields and columns . Quite easy to make sliders and have all dependent calculations updated. . | Various Export Options . HTML, iOS and Android and also able to embed in WordPress . | . To get started: . Try the examples. | Download the Trial Version. | Follow a simple tutorial on building a calculator. |",
             "url": "https://aneesha.github.io/esoteric-teaching-tools/content%20authoring/interactive%20simulation/2020/03/18/spreadsheet-convertor.html",
@@ -45,7 +56,7 @@
     
   
     
-        ,"post4": {
+        ,"post5": {
             "title": "CodeTour - A VS Code extension for code walkthroughs",
             "content": "CodeTour - A VS Code extension for code walkthroughs . Need to explain programming code or introduce students to a new code repository starting point for a programming assignment? Don’t record a video! CodeTour is a Visual Studio Code extension, which allows you to record and playback guided walkthroughs of software code. . . What can you do? . Author Walkthroughs . Annotate files and lines of code. Even markdown can be included . | Playback Walkthroughs . Steps presented interactively with navigation . | Store walkthrough files in the code base . Walkthroughs are stored as text files and easily committed to the code repository. . | . To get started: . Install CodeTour VS Code extension. | Follow instructions for recording and playback of the CodeTour. |",
             "url": "https://aneesha.github.io/esoteric-teaching-tools/content%20authoring/tutorials/2020/03/17/codetour.html",
