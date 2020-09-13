@@ -28,5 +28,6 @@ Sprinkle some javascript magic on a web page and get embedded and editable code 
 
 ## To get started:
 1. Read ["A new way of blogging about javascript"](http://blog.klipse.tech/javascript/2016/06/20/blog-javascript.html) to learn how to embed within a web page and see examples.
+1. Read ["A new way of blogging about HTML and CSS"](https://blog.klipse.tech//clojure/2020/09/10/new-way-html-css.html) to learn about HTML editing capabilities.
 1. Read ["Symbolic Computation in JavaScript with Math.js"](https://blog.klipse.tech/javascript/2020/09/10/symbolic-computation-math-js.html) to get inspired.
 1. Read [Procedural Texture Generator in JavaScript](https://blog.klipse.tech/javascript/2020/09/10/procedural-texture-generator-javascript.html) and be impressed.
